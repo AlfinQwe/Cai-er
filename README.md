@@ -86,7 +86,7 @@ npm update
 ---------
 
 ## FOR REPLIT
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Chandra-XD/ItsukaChan)
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/AlfinQwe/Cai-er)
 ```cmd
 Buka Console
 
