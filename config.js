@@ -4,10 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 
 // Ini owner real no fek"
 global.owner = [
-  ['6285785705233'], // global owner 0
-  ['628990085223'], // global owner 1
-  ['6283848947227'], // global owner 2
-  ['6285785705233', 'Chandra XD', true] // global owner 3
+  ['6289699565795'], // global owner 0
+  ['6289699565795'], // global owner 1
+  ['6289699565795'], // global owner 2
+  ['6289699565795', 'Cailin', true] // global owner 3
 ]
 
 global.mods = [] // Want some help?
@@ -17,7 +17,7 @@ global.APIs = {
   violetics: 'https://violetics.pw'
 }
 global.APIKeys = {
-  'https://pnggilajacn.my.id': 'ItsukaChan',
+  'https://pnggilajacn.my.id': 'AlfinQwe',
   'https://violetics.pw': 'beta'
 }
 
@@ -37,7 +37,7 @@ global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '+62 857-8570-5233'
 
 // Sticker WM
-global.packname = `ItsukaBot-Md`
+global.packname = `Caier X Cailin`
 global.author = `© 2021-2023`
 
 // Random
