@@ -1,7 +1,7 @@
 {
-    "name": "ItsukaChan",
-    "version": "1.0.0",
-    "description": "Simple WhatsApp Bot ESM",
+    "name": "Cai'er My Love",
+    "version": "Cailin",
+    "description": "Cailin Istri ke 1, Dan Cai'er Istri ke 2",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Chandra-XD/ItsukaChan",
+    "homepage": "https://github.com/AlfinQwe/Cai-er",
     "author": {
-        "name": "Chandra-XD"
+        "name": "AlfinQWe"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Chandra-XD/ItsukaChan.git"
+        "url": "git+https://github.com/AlfinQwe/Cai-er.git"
     },
     "bugs": {
-        "url": "https://github.com/Chandra-XD/ItsukaChan/issues"
+        "url": "https://github.com/AlfinQwe/Cai-er/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
