@@ -1,7 +1,7 @@
 {
-  "name": "Chandra-XD",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Chandra-XD/ItsukaChan",
+  "name": "Cai'er",
+  "description": "Powered By Replit",
+  "repository": "https://github.com/AlfinQwe/Cai-er",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
   "buildpacks": [
